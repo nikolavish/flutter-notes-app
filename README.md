@@ -1,7 +1,7 @@
 # Flutter Notes App
-| Single page   | All notes     |
+| All notes   | Single note     |
 |---------------|---------------|
-|![App Preview](./screenshots/all-notes.jpg)|![App Preview](./screenshots/single-note.jpg) |
+|![All notes](./screenshots/all-notes.jpg)|![Single note](./screenshots/single-note.jpg) |
 
 
 
