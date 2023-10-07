@@ -1,6 +1,9 @@
 # Flutter Notes App
+| Single page   | All notes     |
+|---------------|---------------|
+|![App Preview](./screenshots/all-notes.jpg)|![App Preview](./screenshots/single-note.jpg) |
 
-![App Preview](./app_preview.gif)
+
 
 Flutter Notes App is a simple note-taking application built with Flutter, offering basic CRUD (Create, Read, Update, Delete) functionality for your notes, along with the ability to tag your notes for better organization. It also includes smooth animations for a delightful user experience.
 
